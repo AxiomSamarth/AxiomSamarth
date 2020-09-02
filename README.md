@@ -6,16 +6,16 @@ Currently, I am associated with SAP Labs & involved in the development of [Garde
 
 <center>
 <a href="https://golang.org/" target="_blank" >
-    <img src="assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/golang.gif"  height="90" />
 </a>
-<a href="https://golang.org/" target="_blank" >
-    <img src="assets/k8s.gif"  height="90" />
+<a href="https://k8s.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/k8s.gif"  height="90" />
 </a>
-<a href="https://golang.org/" target="_blank" >
-    <img src="assets/docker.gif"  height="90" />
+<a href="https://docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/docker.gif"  height="90" />
 </a>
-<a href="https://www.docker.com/" target="_blank" >
-    <img src="assets/gardener.gif"  height="80" /> 
+<a href="https://www.gardener.cloud/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/gardener.gif"  height="80" /> 
 </a>
 </center>
 
@@ -30,14 +30,14 @@ Connection Servers for enterprise class Virtual Desktop Infrastructure managemen
 - Developed Unified Test Framework for regression testing of HPE PowerShell iLO Cmdlets
 
 <center>
-<a href="https://golang.org/" target="_blank" >
-    <img src="assets/html-css-js.png"  height="90" />
+<a href="https:html.spec.whatwg.org" target="_blank" >
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/html-css-js.png"  height="90" />
 </a>
-<a href="https://golang.org/" target="_blank" >
-    <img src="assets/mongo.gif"  height="90" />
+<a href="http://mongodb.com" target="_blank" >
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/mongo.gif"  height="90" />
 </a>
-<a href="https://golang.org/" target="_blank" >
-    <img src="assets/python.jpg"  height="90" />
+<a href="https://python.org" target="_blank" >
+    <img src="https://raw.githubusercontent.com/axiomsamarth/axiomsamarth/master/assets/python.jpg"  height="90" />
 </a>
 </center>
 
