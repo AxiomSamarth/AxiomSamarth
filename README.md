@@ -6,7 +6,7 @@ Currently, I am associated with SAP Labs & involved in the development of [Garde
 
 <center>
 <a href="https://golang.org/" target="_blank" >
-    <img src="golang.gif"  height="90" />
+    <img src="assets/golang.gif"  height="90" />
 </a>
 <a href="https://golang.org/" target="_blank" >
     <img src="assets/k8s.gif"  height="90" />
