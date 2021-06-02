@@ -47,7 +47,6 @@ Connection Servers for enterprise class Virtual Desktop Infrastructure managemen
 The below open source projects are the ones that are maintained:
 
 - [Gita.IO](https://github.com/AxiomSamarth/gita.io) - API adhering to the OpenAPI v3.0 serving the Bhagavad gita verses. Visit the site [here](http://gita-io.herokuapp.com)
-- [Apolog](https://github.com/AxiomSamarth/apolog) - An open source Golang logging package
 - [Prism](https://github.com/AxiomSamarth/interview-tool) - Software for campus recruitment drive and lateral hiring developed with Python Flask, HTML, CSS, JS and MongoDB
 - [Chrome Extension Development](https://github.com/AxiomSamarth/Chrome_Extension_Development) - Browser extensions to change the background of the window
 - [ipynb-to-py converter](https://github.com/AxiomSamarth/JupyterNotebook_To_PythonFile_Converter) -  A tool to convert the jupyter notebooks into python files.
