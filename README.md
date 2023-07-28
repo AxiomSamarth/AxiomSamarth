@@ -50,7 +50,7 @@ The below are few of my personal projects:
 - [Home Loan Optimizer](https://github.com/AxiomSamarth/home-loan-optimizer) - A smart way to reduce your interest on home loans while not prepaying it off.
 - [Gita.IO](https://github.com/AxiomSamarth/gita.io) - API adhering to the OpenAPI v3.0 serving the Bhagavad gita verses. 
 - [Prism](https://github.com/AxiomSamarth/interview-tool) - Software for campus recruitment drive and lateral hiring developed with Python Flask, HTML, CSS, JS and MongoDB.
-- [GitHub Action for Go Vendor Management](https://github.com/AxiomSamarth/go-vendor-action) - GitHub Actions to vendor in new releases of dependent Go packages automatically.
+- [GitHub Action for Go Vendor](https://github.com/AxiomSamarth/go-vendor-action) - GitHub Actions to vendor in new releases of dependent Go packages automatically.
 - [Chrome Extension Development](https://github.com/AxiomSamarth/Chrome_Extension_Development) - Browser extensions to change the background of the window.
 - [ipynb-to-py converter](https://github.com/AxiomSamarth/JupyterNotebook_To_PythonFile_Converter) -  A tool to convert the jupyter notebooks into python files.
 
